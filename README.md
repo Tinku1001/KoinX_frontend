@@ -23,3 +23,14 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+2. Navigate into the project directory
+   ```bash
+   cd <project-directory-name>
+
+3. Install dependencies
+   ```bash
+   npm install / npm i
+4. Run the development server
+   ```bash
+   npm run start
+   
