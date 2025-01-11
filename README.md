@@ -4,7 +4,7 @@ Welcome to the **Koin-X Frontend** project! This is a responsive and interactive
 
 ## Deployment Link
 
-Explore the live application at: [Koin-X Frontend](https://koin-x-frontend-lovat.vercel.app/)
+Explore the live application at: (https://koin-x-frontend-lovat.vercel.app/)
 
 ## Features
 
